@@ -55,3 +55,7 @@ Through this project, I learned:
 
 ## Internship Program
 **CodeAlpha Frontend Development Internship**
+
+
+
+<img width="2526" height="1508" alt="IMG_20260608_181943" src="https://github.com/user-attachments/assets/5db379cd-37f9-40fb-be4b-d941df7a4a89" />

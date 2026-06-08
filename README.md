@@ -1,7 +1,5 @@
 # Image-Gallery
-Desingn an image gallery using HTML and CSS layout use Java Script for navigation add hover effects and smooth trasitions ensure responsive design for different screen sizes Bonus:Add images
-# CodeAlpha Image Gallery
-
+Desingn an image gallery using HTML and CSS layout use Java Script for navigation add hover effects and smooth trasitions ensure responsive design for different screen sizes Bonus:Add image
 ## Overview
 This project is a simple and interactive Image Gallery developed using HTML, CSS, and JavaScript as part of the CodeAlpha Frontend Development Internship.
 

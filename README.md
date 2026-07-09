@@ -57,5 +57,5 @@ Through this project, I learned:
 **CodeAlpha Frontend Development Internship**
 
 
-<img width="3840" height="2160" alt="IMG-20260709-WA0018" src="https://github.com/user-attachments/assets/44a6120d-0c05-4794-a5d5-b2d232e23fbf" />
+<img width="3199" height="1945" alt="IMG-20260709-WA0018" src="https://github.com/user-attachments/assets/35034590-1e5f-48f1-b832-b7aa868d4ae9" />
 
